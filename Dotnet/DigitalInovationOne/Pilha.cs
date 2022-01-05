@@ -14,7 +14,7 @@ namespace EstruturaDoPrograma
     {
       if (primeiro == null)
       {
-        throw new InvalidOperationException();
+        throw new InvalidOperationException("Esta pilha está vazia!");
       }
       object resultado = primeiro.item;
       primeiro = primeiro.proximo;
