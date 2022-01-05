@@ -1,0 +1,15 @@
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.exe
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.dll
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\DigitalInovationOne\bin\Debug\net6.0\ref\DigitalInovationOne.dll
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.dll
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\DigitalInovationOne\obj\Debug\net6.0\ref\DigitalInovationOne.dll
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.genruntimeconfig.cache
