@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\bootcamp avanade\\Desafio GIT Github\\DIO_Desafio_GITHub\\Dotnet\\DigitalInovationOne\\DigitalInovationOne.csproj",
-      "projectName": "DigitalInovationOne",
-      "projectPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\bootcamp avanade\\Desafio GIT Github\\DIO_Desafio_GITHub\\Dotnet\\DigitalInovationOne\\DigitalInovationOne.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\bootcamp avanade\\Desafio GIT Github\\DIO_Desafio_GITHub\\Dotnet\\DigitalInovationOne\\EstruturaDoPrograma.csproj",
+      "projectName": "EstruturaDoPrograma",
+      "projectPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\bootcamp avanade\\Desafio GIT Github\\DIO_Desafio_GITHub\\Dotnet\\DigitalInovationOne\\EstruturaDoPrograma.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\bootcamp avanade\\Desafio GIT Github\\DIO_Desafio_GITHub\\Dotnet\\DigitalInovationOne\\obj\\",
       "projectStyle": "PackageReference",
