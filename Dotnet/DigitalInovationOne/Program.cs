@@ -1,17 +1,18 @@
 ﻿using System;
 
-namespace DigitalInovationOne
+namespace EstruturaDoPrograma
 {
   class Program
   {
-    static void Main(string[] args)
+    static void Main()
     {
-      int numeroDeVezes = 5;
-
-      for (int i=0; i < numeroDeVezes; i++)
-      {
-        Console.WriteLine($"Bem Vindos ao curso de .Net {i}");
-      }
+      var s = new Pilha();
+      s.Empilha(1);
+      s.Empilha(10);
+      s.Empilha(100);
+      Console.WriteLine(s.Desempilha());
+      Console.WriteLine(s.Desempilha());
+      Console.WriteLine(s.Desempilha());
     }
   }
 }

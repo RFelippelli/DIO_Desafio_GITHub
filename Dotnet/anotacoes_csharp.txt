@@ -1,0 +1,29 @@
+>>programas em C# são executados no .NET que inclui a CLR (common language
+runtime) e um conjunto de bibliotecas
+
+>>Compilador atual Rosylin
+
+>>O código escrito em C# é compilado em linguagem intermediaria e os recursos
+são guardados em um executavel chamado Assmbly com extensão .exe ou .dd
+
+>>quando o programa é executado o assembly é carregado no CLR e o CLR 
+executará a compilação Just in Time (JIT) para converter o código em instrução
+de máquina nativa
+
+>>outros serviços do CLR:
+Gargage collector (libera espaço de arquivos não utilizados)
+exception Handler (recebe e controla as excessões)
+Resources Manager (controla os recursos)
+
+>>principais conceitos organizacioanis em C#
+programas
+namespaces
+tipos
+membros
+assemblies
+
+>>programas C# em um ou mais arquivos
+>>os programas declaram tipos que contem membros e podem ser organizados em
+namespaces
+>>Classes e interfaces são exemplos de tipos
+>>Campos, métodos, propriedades e eventos são exemplos de membros
