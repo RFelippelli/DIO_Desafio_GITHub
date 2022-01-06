@@ -1,2 +1,35 @@
 ##### POO #####
 
+programação orientada a objeto é um paradigma de programação, ou seja, corresponde
+a uma técnica de programação para um fim específico
+Quatro pilares desta técnica:
+>Abstração
+>Encapsulamento
+>Herança
+>Polimorfismo
+
+Classes e Obejtos
+
+classe: 
+um molde, uma abstração do mundo real que queira ser representada na programação:
+uma planta de casa, uma receita de bolo é uma classe.
+uma classe possui um ou mais atributos
+objeto:
+A casa construida, o bolo é o objeto.
+algo que se pode manipular. Posso ter varios objetos com base na mesma classe
+
+Tipos de paradigmas de programação
+POO
+Estruturada
+Imperativa
+procedural
+orientada a eventos
+lógica
+uma linguagem de programação pode possuir diversos paradigmas.
+cada paradigmas possui seu grupo de regras e aplicação para cada situação.
+
+Abstração:
+Abstrair um objeto do mundo real para um contexto específico, considerando apenas
+os atributos importantes
+
+Encapsulamento:
