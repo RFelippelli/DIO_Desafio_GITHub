@@ -1,0 +1,15 @@
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\Exemplo.Pratico.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\Exemplo.Pratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\Exemplo.Pratico.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\Exemplo.Pratico.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\Exemplo.Pratico.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\bin\Debug\net6.0\Exemplo.Pratico.exe
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\bin\Debug\net6.0\Exemplo.Pratico.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\bin\Debug\net6.0\Exemplo.Pratico.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\bin\Debug\net6.0\Exemplo.Pratico.dll
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\bin\Debug\net6.0\ref\Exemplo.Pratico.dll
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\bin\Debug\net6.0\Exemplo.Pratico.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\Exemplo.Pratico.dll
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\ref\Exemplo.Pratico.dll
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\Exemplo.Pratico.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\Exemplo.Pratico.genruntimeconfig.cache

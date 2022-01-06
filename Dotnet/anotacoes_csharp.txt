@@ -27,3 +27,140 @@ assemblies
 namespaces
 >>Classes e interfaces são exemplos de tipos
 >>Campos, métodos, propriedades e eventos são exemplos de membros
+
+##variaveis
+#1- variaveis de tipos de valor
+separa um espaço na memória e armazena os dados.
+a própria variavel possui diretamente seus dados
+caso ela seja copiada ela não terá seus dados alterados a menos que seja forçada a
+isso.
+exemplos:
+numericas: sbyte, short, int, long, byte, ushort, uint, ulong.
+caracteres unicode: char
+pontos flutuantes: float, double, decimal
+booleano: bool
+enum, struct e tipos nullable
+
+#2-variaveis de tipos de referencia
+não contem os dados mas sim uma referencia para os dados que estão armazenados em
+outro espaço da memoria
+caso hajam duas variaves fazendo referencia ao mesmo objeto na memoria quando uma 
+for alterada, consequentemente a outra também será.
+exemplo:
+tipos classe: class, object, string
+tipos array: int[], int[,], etc
+interface, delegate
+
+##instruções##
+declaração de variaveis e constantes
+if
+switch
+while
+do
+for
+foreach
+
+break
+continue
+retunr
+throw
+try
+catch
+finally
+using
+
+###Arrays###
+Arrays são estruturas de dados que contem um numero X de elementos, todos do mesmo
+tipo e acessados via indice.
+Arrays são tipos de referencia, quando declaramos um array, reservamos espaço 
+para uma referencia e não para armazenar os dados.
+ao criar o array é especificado o tamanho da instancia.
+criação de arrays:
+
+int{} a = new int [10];
+cria um array de 10 posições que são acessados a partir de 0
+
+int[] a = new int[] {1, 2, 3};
+cria array sem informar a quantidade de indices mas ja fornece os dados para cada
+posição e cria 3 posições automaticamente. 
+
+int [] a = {1, 2, 3};
+também surtiria o mesmo efeito
+
+int[] t = new int [3];
+t[0] = 1 
+t[1] = 2
+t[2] = 3
+int [] a = t
+e desta forma também, porem aqui declaramos parte a parte
+
+####Classes e Objetos####
+Classes são estruturas de dados que combina estado (campos/prorpiedades) 
+e ações (métodos)
+
+Objetos são instancias de uma classe
+declaração de classe chamada Ponto
+Public class Ponto
+ {
+  public int x, y;
+  public Ponto (int x, int y)
+  
+  {
+   this.x = x;
+   this.y = y;
+  }
+
+ }
+
+a memoria alocada é liberada quando um objeto não é mais utilizado
+
+Membros
+os membros de uma classe podem ser estáticos ou membros da instancia
+membros estáticos pertentecem a classe e membros de instancia pertencem ao objeto
+
+acessibilidade 
+Cada membro de uma classe tem uma acessibilidade associada, que controla as regiões
+do texto do programa que podem acessar o membro
+Podem ser:
+Public
+qualquer parte do codigo pode acessa-lo
+
+Protected
+apenas as classes que herdam da classe base podem ter acesso
+
+internal 
+só é acessado do assembly que ele faz parte
+
+private
+É acessado apenas dentro da classe que ele faz parte
+
+###Herança
+Uma declaração de classe pode especificar uma classe base, herdandio membros public,
+internal e protected da classe base.
+Omitir uma especificação de classe base é o mesmo que derivar do tipo object
+
+### METODOS
+Um método é um membro que implementa uma computação ou ação que pode ser executada
+por um objeto ou classe
+Na declaração dos parametros do método é necessário informar se as variaveis estão 
+sendo passadas diretamente ou por referencia para saber se será alterada ou 
+não a variavel principal
+
+### STRUCT
+são estruturas de dados que podem conter membros de dados e membros de ação, mas,
+diferentemente das classes, as structs são tipos de valor e não requerem alocação
+de heap
+Uma variavel de um tipo struct armazena diretamente os dados da estrutura, enquanto
+uma variavel de um tipo de classe armazena uma referencia a um objeto alocado
+na memoria
+struct não aceita herança
+o uso de structs em vez de classes para pequenas estruturas gera 
+uma economia de memoria
+
+###Interfaces
+uma interface pode conter metodos, propriedades, eventos e indexadores
+uma interface não fornece implementaçãoes dos membors que define - apenas suas 
+"assinaturas".
+Interfaces podem herdar heranças multiplas
+
+###Enums
