@@ -13,3 +13,18 @@ C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DI
 C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\ref\ExemploPratico.dll
 C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\ExemploPratico.pdb
 C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\Desafio GIT Github\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\ExemploPratico.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\bin\Debug\net6.0\ExemploPratico.exe
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\bin\Debug\net6.0\ExemploPratico.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\bin\Debug\net6.0\ExemploPratico.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\bin\Debug\net6.0\ExemploPratico.dll
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\bin\Debug\net6.0\ref\ExemploPratico.dll
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\bin\Debug\net6.0\ExemploPratico.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\ExemploPratico.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\ExemploPratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\ExemploPratico.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\ExemploPratico.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\ExemploPratico.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\ExemploPratico.dll
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\ref\ExemploPratico.dll
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\ExemploPratico.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\bootcamp avanade\DIO_Desafio_GITHub\Dotnet\Exemplo.Pratico\obj\Debug\net6.0\ExemploPratico.genruntimeconfig.cache
