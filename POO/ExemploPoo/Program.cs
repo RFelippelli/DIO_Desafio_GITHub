@@ -1,6 +1,7 @@
 ﻿using System;
 using ExemploPoo.Interfaces;
 using ExemploPoo.Models;
+using ExemploPoo.FileHelper;
 
 namespace ExemploPoo
 {
@@ -8,8 +9,9 @@ namespace ExemploPoo
   {
     static void Main(string[] args)
     {
-      Icalculadora calc = new calculadora();
-      System.Console.WriteLine(calc.somar(10, 20));
+
+      // Icalculadora calc = new calculadora();
+      // System.Console.WriteLine(calc.somar(10, 20));
     
     
       // computador comp = new computador();

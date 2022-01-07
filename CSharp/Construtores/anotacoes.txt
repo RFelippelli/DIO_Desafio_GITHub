@@ -1,0 +1,27 @@
+Construtor
+Um construtor é um metodo especial, que contém o mesmo nome do seu tipo de classe,
+e tem o objetivo de definir valores padrão, limitar uma instância e facilitar a 
+instanciação de um objeto.
+
+um construtor não possui retorno
+um construtor padrão é sempre definido quando não declaramos nenhum para sua classe
+uma classe pode ter mais de um construtor
+
+
+Get e Set
+serve para que você possa atribuir um valor em uma variavel de maneira cotrolada
+e com validações
+
+Void:
+vazio, não retorna nada.
+static void = um método estatico que não retorna nada (void/vazio)
+
+Métodos
+são comportamentos ou ações que uma classe pode executar
+
+variáveis:
+variáveis são criadas primeiro determinando o tipo delas ("int x = 10;")
+
+PROGRAMA
+NAMESPACE
+TIPOS (CLASSES, STRUCTS, INTERFACES, ENUMERAÇÕES OU OUTROS NAMESPACES)

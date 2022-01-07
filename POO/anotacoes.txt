@@ -52,8 +52,8 @@ diferentes
 
 Polimorfismo
 significa muitas formas
-com o polimorfismo é possivel sobrescrever (override) métodos das classes filhas para que se
-comportem de maneira diferente e ter sa própria implementação
+com o polimorfismo é possivel sobrescrever (override) métodos das classes filhas 
+para que se comportem de maneira diferente e ter sa própria implementação
 
 Classe Abstrata
 Uma classe abstrata tem como objetivo ser exclusivamente um modelo para ser herdado
@@ -80,6 +80,36 @@ Assim como uma classe abstrata, uma interface não pode ser instanciada.
 Quando uma interface é implementada a uma classe, essa classe tem que usar as 
 definições daquela interface.
 Uma classe pode herdar mais de uma interface.
+
+Arquivo
+C# apresenta algumas classes estáticas que facilitam o trabalho com arquivos
+dentre elas:
+-file (manipular arquivos: ler, criar, apagar arquivos)
+-directory (manipular diretorios: listar, criar, apagar diretorios)
+-path (organizar caminhos de maneira lógica)
+
+são classes estáticas não precisa instanciar, estão disponiveis para uso fazendo
+import de system.io
+manipular arquivos pode ser através do comando 
+Directory.GetDirectories()
+Directory.GetFiles()
+Directory.CreateDirectory(Path.Combine("pasta 1", "pasta 2") - coloca a pasta 2
+dentro da pasta 1
+Directory.Delete
+
+WriteAllText() -método que cria um novo arquivo, grava os conteúdos nele e o fecha. 
+Se o arquivo de destino já existir, ele será substituído.
+
+file.Move(caminho, destino)
+
+file.OpenText() - Abre um arquivo de texto com codificação UTF-8 existente para 
+leitura.
+
+file.Copy(caminho, destino)
+
+file.Delete()
+
+
 
 
 
