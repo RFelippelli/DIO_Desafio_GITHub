@@ -33,3 +33,53 @@ Abstrair um objeto do mundo real para um contexto específico, considerando apen
 os atributos importantes
 
 Encapsulamento:
+O encapsulamento serve para proteger uma classe e definir limites para alteração
+de suas propriedades
+Oculta o comportamento e expõe somente o necessário
+Modificadores de acesso:
+public
+protected internal
+pretected
+internal
+privater protected 
+private
+
+Herança
+A herança nos opermite reutilizar atributos, métodos e comportamentos de uma classe
+em outras classes. 
+serve para agrupar objetos que são do mesmo tipo,porém com características 
+diferentes
+
+Polimorfismo
+significa muitas formas
+com o polimorfismo é possivel sobrescrever (override) métodos das classes filhas para que se
+comportem de maneira diferente e ter sa própria implementação
+
+Classe Abstrata
+Uma classe abstrata tem como objetivo ser exclusivamente um modelo para ser herdado
+portanto não pode ser instanciada.
+Você pode implementar métodos ou deixa-los a cargo de quem herdar.
+voce pode ter um metodo abstrato assim.
+
+Classe Selada
+Uma classe selada tem como objetivo de impedir que outras classes façam uma herança
+dela, ou seja, nenhuma classe pode ser sua derivada.
+Também existem métodos e propriedades seladas.
+não permite sobreescrita/polimorfismo
+
+Classe Object
+A classe System.Object é a mãe de todas as classes na hierarquia do .NET
+Todas as classes derivam, direta ou indiretamente da classe Object, e ela tem como
+objetivo prover serviços de baixo nível para suas classes filhas.
+
+Interfaces
+Uma interface é um contrato que pode ser implementado por uma classe.
+É como se fosse uma classe abstrata, podendo definir métodos abstratos para serem 
+implementados.
+Assim como uma classe abstrata, uma interface não pode ser instanciada.
+Quando uma interface é implementada a uma classe, essa classe tem que usar as 
+definições daquela interface.
+Uma classe pode herdar mais de uma interface.
+
+
+
