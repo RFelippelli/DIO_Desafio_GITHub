@@ -1,3 +1,28 @@
+2002 criado .net framework que era para web e windows apenas
+2016 lançado .net core  para web, windowns, linux e macOs
+	.net standard - bibliotecas de classe base
+2020 .Net 5 plataforma unificada
+
+Framework e Runtime CLR commom language runtime
+Framework é como uma caixa de ferramentas (componentes) prontas
+Runtime pega o bloco de codigo e compila para linguagem binária para máquinas
+
+CLI command line interface (o CMD no windows)
+Processa os comandos que serão enviados para um programa de computador na forma
+de linhas de texto 
+dotnet --version (
+dotnet --help (mostra todos os comandos)
+dotnet --info
+dotnet new (cria um novo projeto)
+dotnet new --list (exibe a lista de tipos de projetos)
+dotnet new --list --tag web (exibe lista de tipos de projetos com tag web)
+cd (change directory)
+dotnet run (inicia o programa na pasta referenciada)
+dotnet build (compila o codigo e verifica se há avisos ou erros)
+dotnet restore (resgata as dependencias)
+
+
+
 >>programas em C# são executados no .NET que inclui a CLR (common language
 runtime) e um conjunto de bibliotecas
 
@@ -163,4 +188,3 @@ uma interface não fornece implementaçãoes dos membors que define - apenas sua
 "assinaturas".
 Interfaces podem herdar heranças multiplas
 
-###Enums
