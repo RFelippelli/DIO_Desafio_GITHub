@@ -11,6 +11,30 @@ uma classe pode ter mais de um construtor
 Get e Set
 serve para que você possa atribuir um valor em uma variavel de maneira cotrolada
 e com validações
+get obtem o valor da propriedade
+set atribui o valor da propriedade
+propriedade é uma maneira de unificar o get e o set podendo ter validações ou não
+
+modificadores:
+O modificador readonly (somente leitura) bloqueia um campo contra alterações que 
+não sejam em sua inicialização ou pelo próprio construtor
+
+constante:
+Uma constante representa um valor que somente pode ser atribuído no momento de sua 
+inicialização, e não pode ser modificado posteriormente. É o contrário de uma 
+variável.
+
+Delegates:
+Um delegate é uma maneira de passar um método como referência, podendo ser usado 
+como um callback, aceitando qualquer método que contenha a mes aassinatura. Podemos
+invocar mais de um método no mesmo delegate seguindo a ordem FIFO (multi delegate)
+
+Eventos
+É um mecanismo de comunicação entre objetos, onde existe um publisher, que realiza
+o evento e o subscriber, que se inscreve em um evento. Um evento dispara todos os 
+métodos que estiverem inscritos nele.
+
+
 
 Void:
 vazio, não retorna nada.
@@ -25,3 +49,5 @@ variáveis são criadas primeiro determinando o tipo delas ("int x = 10;")
 PROGRAMA
 NAMESPACE
 TIPOS (CLASSES, STRUCTS, INTERFACES, ENUMERAÇÕES OU OUTROS NAMESPACES)
+
+
