@@ -1,0 +1,27 @@
+Array/vetor/matriz
+O array é uma estrutura de dados que armazena valores do mesmo tipo, com um tamanho
+fixo
+int[] array = new int[4];
+int[] array = new int [] {42, 75, 74, 61};
+string[] nomes = {"jan","fev"};
+após declarado o array não é possivel aumentar a capacidade dele.
+seria necessário criar um novo array copiando os dados anteriores e atribuindo um
+novo tamanho.
+indice é a posição dos valores no array começando sempre por 0
+Array multidimensional 
+O array pode possuir mais de uma dimensão:
+int[,] array= new int [4,2]; Array com 4 linhas e 2 colunas
+para acessar o valor é preciso passar as duas dimensões array[1,1]
+
+Ordenando Arrays
+Para ordenar um array, existem diversos algoritmos de ordenação, diferentes 
+técniucas e casos a serem considerados
+BubbleSort ordena por comparação maior/menor
+SelectionSort ordena comparando o primeiro numero e verificando se há alguém menor
+que ele, e fazendo a troca
+InsertionSort compara o valor e posiciona entre o maior e o menor algoritimo 
+em relação ao que está sendo comparado
+
+Classe Array
+Classe array é uma calasse do C# que pertence ao namespace system que nos oferece 
+diversos métodos que nos auxiliam a trabalhar com arrrays.  
