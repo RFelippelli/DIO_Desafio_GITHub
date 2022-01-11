@@ -30,7 +30,7 @@ ponto . e em seguida o método:
 Array.TrueForAll (verifica se todos os itens de 
 uma array são verdadeiros de acordo com a condição proposta e só retorna 
 se todos forem True, array[](1, 2 , 3, 4, 5) se aplicarmos a verificação 
-Array.TrueForAll(>0) todos vão retornar true e condição é verdadeira) 
+Array.TrueForAll(>0) todos vão retornar true se condição é verdadeira) 
 Array.Sort, 
 Array.Copy, 
 Array.Exists, etc..
@@ -40,10 +40,47 @@ Array.findIndex (busca um indice dentro de um array mas aceita equações como
 método de busca)
 
 Coleções Genéricas
-no c# existem classes de coleções que agrupam valores do mesmo tipo, e essas classes são padronizadas para as operações mais comuns, como:
+no c# existem classes de coleções que agrupam valores do mesmo tipo, e essas 
+classes são padronizadas para as operações mais comuns, como:
 ordenação
 Obter valor por indice
 obter valor com expressões
 trabalhar com tamanhos dinamicos
-pode-se criar uma coleção genérica usando umas das classes no namespace system.Collections.Generic.
-Uma coleção genérica é util quando cad item na coleção tem o mesmo tipo de dados. Uma coleção genérica impôes tipagem forte permitindo que apenas o tipo de dados desejado seja adicionado.
+pode-se criar uma coleção genérica usando umas das classes no namespace 
+system.Collections.Generic.
+Uma coleção genérica é util quando cad item na coleção tem o mesmo tipo de dados. 
+Uma coleção genérica impôes tipagem forte permitindo que apenas o tipo de dados 
+desejado seja adicionado.
+
+Coleções específicas
+As coleções específicas implementam regras para sua ordem de acesso e manipulação
+de seus elementos, são elas:
+Queue(fila): Obedece a ordem FIFO (first in first out)
+Stack (pilha): Obedece a ordem LIFO (last in first out)
+método Enqueue 
+insere itens na fila
+método Dequeue
+remove itens da fila
+método Peek 
+busca um elemento na fila/pilha mas sem remove-lo da fila/lista
+método Push insere um item no topo da pilha
+método POP remove o elemento do topo da pilha 
+
+Dicionários
+Um dicionário é uma coleão de chave e valor, permitindo que você recupere 
+rapidamente seus itens baseado em sua chave.
+O dicionário armazena a sua chave em hash
+Criação de um dicionário:
+Dictionary<string, string> estados = new Dictionary<string, string>()
+sempre que buscamos um valor no dictionary buscamos pela chave
+sempre que tentar buscar uma chave que não existe no dictionary ele vai retornar
+uma excessão e encerrar o programa
+quando não sabemos se a chave existe no dicionario podemos utilizar TryGetValue
+para que o programa não feche caso insira uma chave inexistente
+
+Operações LINQ
+O language integrated query é uma maneira de vc utilizar uma sintaxe de consulta
+padronizada para coleções e objetos
+
+
+
