@@ -25,3 +25,25 @@ em relação ao que está sendo comparado
 Classe Array
 Classe array é uma calasse do C# que pertence ao namespace system que nos oferece 
 diversos métodos que nos auxiliam a trabalhar com arrrays.  
+Para utilizar um método da classe array primeiro se declara a classe seguindo por 
+ponto . e em seguida o método: 
+Array.TrueForAll (verifica se todos os itens de 
+uma array são verdadeiros de acordo com a condição proposta e só retorna 
+se todos forem True, array[](1, 2 , 3, 4, 5) se aplicarmos a verificação 
+Array.TrueForAll(>0) todos vão retornar true e condição é verdadeira) 
+Array.Sort, 
+Array.Copy, 
+Array.Exists, etc..
+
+Array.IndexOf(array, valor); : Busca um indice pré definido dentro de um Array
+Array.findIndex (busca um indice dentro de um array mas aceita equações como 
+método de busca)
+
+Coleções Genéricas
+no c# existem classes de coleções que agrupam valores do mesmo tipo, e essas classes são padronizadas para as operações mais comuns, como:
+ordenação
+Obter valor por indice
+obter valor com expressões
+trabalhar com tamanhos dinamicos
+pode-se criar uma coleção genérica usando umas das classes no namespace system.Collections.Generic.
+Uma coleção genérica é util quando cad item na coleção tem o mesmo tipo de dados. Uma coleção genérica impôes tipagem forte permitindo que apenas o tipo de dados desejado seja adicionado.
