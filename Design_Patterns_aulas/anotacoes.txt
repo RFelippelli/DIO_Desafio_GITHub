@@ -1,0 +1,55 @@
+Design Patterns
+São soluções elegantes, testadas e aprovadas para problemas recorrentes que temos
+no design e implementação de software
+Surgiram da experimentação e repetição
+Não é um padrão pronto para ser aplicado no seu códgio, é uma descrição/template
+de como resolver o seu problema nas mais diferentes siuações
+
+grupos: Creational Pattern, Structural Pattern, Behavioral Pattern
+
+hands on: 
+Singleton: Garante uma unica instancia da classe e um acesso global para ela, ou
+seja, centraliza e compartilha recursos
+O Singleton é um padrão de projeto criacional, que garante que apenas um objeto 
+desse tipo exista e forneça um único ponto de acesso a ele para qualquer 
+outro código.
+O Singleton tem quase os mesmos prós e contras que as variáveis globais. 
+Embora sejam super úteis, eles quebram a modularidade do seu código.
+Você pode usar classes que dependem de singletons em algumas outras situações 
+você terá que levar a classe singleton também. Na maioria das vezes, essa 
+limitação surge durante a criação de testes de unidade.
+
+Repository: Faz a abstração entre o seu dominio e a sua camada de dados, ou seja, 
+contribui para o isolamento da camada de acesso a dados.
+O padrão de projeto Repository acrescenta uma camada de abstração no topo da 
+camada de consultas e ajuda eliminar lógica duplicada na implementação do código 
+de suas consultas ao modelo de entidades.
+
+Facade: Define uma interface que abstrai a complexidade de interface de
+subsistemas, ou seja, simplifica a utilização de sistemas complexos.
+Um Facade é um objeto que provê uma interface simplificada para um 
+corpo de código maior, como por exemplo, uma biblioteca de classes.
+
+Injeção de dependencia
+Injeção de Dependência é um é um padrão de projeto usado para evitar o alto nível 
+de acoplamento de código dentro de uma aplicação.
+
+Guid é um tipo de dado utilizado para garantir uma identificação unica
+
+API
+API é um conjunto de rotinas e padrões de programação para acesso a um aplicativo 
+de software ou plataforma baseado na Web. 
+Uma API é criada quando uma empresa de software tem a intenção de que outros 
+criadores de software desenvolvam produtos associados ao seu serviço. 
+Existem vários deles que disponibilizam seus códigos e instruções para serem usados 
+em outros sites da maneira mais conveniente para seus usuários. 
+O Google Maps é um dos grandes exemplos na área de APIs. Por meio de seu código 
+original, muitos outros sites e aplicações utilizam os dados do Google Maps 
+adaptando-o da melhor forma a fim de utilizar esse serviço.
+
+JWT
+JWT ou JSON Web Token é um padrão da indústria definido pela RFC7519 que tem como
+ objetivo transmitir ou armazenar de forma compacta e segura objetos JSON entre 
+diferentes aplicações. O JWT é digitalmente assinado usando uma chave secreta com 
+o algoritmo HMAC ou um par de chaves pública e privada RSA ou ECDSA.
+

@@ -1,0 +1,68 @@
+Monolitos:
+Arquitetura Monolítica é um sistema único, não dividido, que roda em um único 
+processo, uma aplicação de software em que diferentes componentes estão ligados 
+a um único programa dentro de uma única plataforma.
+
+vantagens
+rápido e fácil para iniciar
+infraestrutuura simples
+debug fascinante 
+
+desvantagens
+problemas com merge-conflicts
+conexões simultaneas tcp é limitada
+dreadlock e concorrencia
+bus e defeitos colaterais
+build/deplou longos e pesados
+baixa escalabilidade
+agregação de tecnologia
+demora de aculturamento
+
+Escalabilidade
+vertical:
+quando aumenta a quantidade de acesso escalabilidade vertical é uma solução que
+adiciona mais "lata" mais hardware ao servidor para garantir os acessos 
+
+horizontal:
+é uma solução de escalabilidade que divide os acessos, fazendo com X% dos acessos
+vão para um servidor A e X% vão para um servidor B.
+
+utilizando microsserviços podemos escalar parte dos serviços individualmente,
+aumento somente a capacidade do que é mais utilizado. Isto é chamado escalabilidade
+por demanda
+
+utilizar microsserviços é dividir em partes(serviços) o programa para que possamos 
+trabalhar com cada parte individualmente.
+
+Manifesto Ágil - 2001
+
+dominio, escalabilidade e segregação de contexto para poder escalar apenas onde
+há necessidade
+
+microsserviços dependem apenass um do outro via APIs públicas
+em microsserviços podemos utilizar mais de uma tecnologia na construção do produto
+
+MS encapsulam estado(dados) e comportamento(regras de negócio)
+
+MS posssuem deploys independentes sem afetar o serviço
+O tratamento as falhas de microsserviços é feito isoladamente 
+
+Ms são diferentes serviços dentro de um sistema desmembrado 
+
+O DDD (design orientado a domínio) defende modelagem com base na realidade dos 
+negócios conforme relevante para os seus casos de uso. 
+No contexto da criação de aplicativos, o DDD fala sobre problemas como domínios.
+
+quando se divide um dominio é dividido também os dados desse dominio
+
+mapa de contexto são todos os dominios e todos os contextos da aplicação
+
+tarefas sincronas são tarefas de leitura de informação
+
+todas as tarefas que devem ser repetitivas recomenda-se usar cache
+
+mapa de contextos para mapear quais microsserviços serão usados e como vão
+funcionar para que não haja excessos
+
+resiliencia, escalabilidade, desempenho, ter menores peças para que se avalie parte
+a parte o que agrega valor, são vantagens de microsserviços

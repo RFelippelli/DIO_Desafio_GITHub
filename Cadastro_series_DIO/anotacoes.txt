@@ -1,0 +1,13 @@
+CRUD:
+Create, Read, Update, Delete
+criar, ler, atualizar, deletar
+
+Classes Abstratas:
+Classes que podem conter métodos abstratos, que não pode ser instanciada
+Exige subclasses que tenham implemntação dos métodos abstratos.
+quem herda dessa classe é obrigado a fazer a implementação dos métodos
+um método abstrao é um método que é declarado, porém não contém implementação.
+
+Interface é muito semelhante  uma classe abstrata, mas não possui atributos e não
+pode definir como os métodos devem ser implementados
+Em vez disso, é simplesmente uma lista de métodos que devem ser implementados 
